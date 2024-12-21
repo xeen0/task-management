@@ -2,7 +2,7 @@
   "name": "task-management",
   "private": true,
   "version": "0.0.0",
-  "homepage":"https://xeen0.github.io/task-management/",
+  "homepage":"https://xeen0.github.io/task-management",
   "type": "module",
   "scripts": {
     "dev": "vite",
